@@ -17,37 +17,37 @@
 
 ### Languages and Tools:
 
-•	Simulation and Debugging software :
-		PSpice
-		TINA
-		Proteus Design Suite
-		MATLAB
-•	Designing software
-		EagleCAD
-		VHDL on Xilinx
-		AutoCAD
-		LABVIEW
 •	Language and Tools
-		C and C++
-		Embedded C on AVR Studio
-		Shell Scripting using BASH
-		Assembly Language [Intel 8085 Ins. set]
-		Python
-		Rational Synergy and DOORS
-		GIT
+	-	C and C++
+	-	Embedded C on AVR Studio
+	-	Shell Scripting using BASH
+	-	Assembly Language [Intel 8085 Ins. set]
+	-	Python
+	-	Rational Synergy and DOORS
+	-	GIT
+•	Simulation and Debugging software :
+	-	PSpice
+	-	TINA
+	-	Proteus Design Suite
+	-	MATLAB
+•	Designing software
+	-	EagleCAD
+	-	VHDL on Xilinx
+	-	AutoCAD
+	-	LABVIEW
 •	Operating System
-		Windows 7,8,10
-		Linux Fedora-19
+	-	Windows 7,8,10
+	-	Linux Fedora-19
 •	Compilers and Editors
-		GCC
-		Vim
-		Eclipse and MSVC
-		ELDO[Mentor graphics]
-		ArduinoIDE
-		VectorCAST [6.3n to 2019]
+	-	GCC
+	-	Vim
+	-	Eclipse and MSVC
+	-	ELDO[Mentor graphics]
+	-	ArduinoIDE
+	-	VectorCAST [6.3n to 2019]
 •	Project Management 
-		SCRUM (way of working)
-		Rational JAZZ (Project management and Sprint plannings)
+	-	SCRUM (way of working)
+	-	Rational JAZZ (Project management and Sprint plannings)
 	
 <br />
 <br />
