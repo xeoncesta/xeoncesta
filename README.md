@@ -1,7 +1,7 @@
 ### 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓐𝓶𝓲𝓽𝓮𝓼𝓱 - 𝓪𝓴𝓪 [xeoncesta][website] 👋
 
 ## I'm a Software/Elctronics Engineer,Developer, and a fun guy to hang out with!
-- 🔭 I’m currently working on a [Relish Editor][https://github.com/xeoncesta/Relish-Edit]!
+- 🔭 I’m currently working on a [Relish Editor][CurrentProj]!
 - 🌱 I’m currently learning everything 😂 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -61,3 +61,4 @@
 [website]: https://xeoncesta.github.io/website_xeoncesta/
 [linkedin]: https://www.linkedin.com/in/amitesh-singh-xeoncesta/
 [instagram]: https://www.instagram.com/amitesh.xeoncesta/
+[CurrentProj]:https://github.com/xeoncesta/Relish-Edit
