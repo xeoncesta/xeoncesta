@@ -14,10 +14,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+### Languages and Tools
 
-### Languages and Tools:
-
-•	Language and Tools
+	<pre><code>
 	-	C and C++
 	-	Embedded C on AVR Studio
 	-	Shell Scripting using BASH
@@ -25,29 +24,41 @@
 	-	Python
 	-	Rational Synergy and DOORS
 	-	GIT
-•	Simulation and Debugging software :
+	</pre></code>
+	
+### Simulation and Debugging software
+	<pre><code>
 	-	PSpice
 	-	TINA
 	-	Proteus Design Suite
 	-	MATLAB
-•	Designing software
+	</pre></code>
+### Designing software
+	<pre><code>
 	-	EagleCAD
 	-	VHDL on Xilinx
 	-	AutoCAD
 	-	LABVIEW
-•	Operating System
+	</pre></code>
+### Operating System
+	<pre><code>
 	-	Windows 7,8,10
 	-	Linux Fedora-19
-•	Compilers and Editors
+	</pre></code>
+### Compilers and Editors
+	<pre><code>
 	-	GCC
 	-	Vim
 	-	Eclipse and MSVC
 	-	ELDO[Mentor graphics]
 	-	ArduinoIDE
 	-	VectorCAST [6.3n to 2019]
-•	Project Management 
+	</pre></code>
+### Project Management
+	<pre><code>
 	-	SCRUM (way of working)
 	-	Rational JAZZ (Project management and Sprint plannings)
+	</pre></code>
 	
 <br />
 <br />
