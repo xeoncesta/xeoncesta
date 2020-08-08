@@ -58,8 +58,7 @@
 ---
 <a href="https://github.com/xeoncesta/github-readme-stats">
 <img align="left" alt="xeoncesta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xeoncesta&show_icons=true&hide_border=true&hide=prs,issues,contribs&count_private=true&theme=tokyonight" />
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeoncesta&layout=compact)](https://github.com/xeoncesta/github-readme-stats)
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeoncesta&layout=compact" />	
 </a>
 
 [website]: https://xeoncesta.github.io/website_xeoncesta/
