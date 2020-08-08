@@ -61,4 +61,3 @@
 [website]: https://xeoncesta.github.io/website_xeoncesta/
 [linkedin]: https://www.linkedin.com/in/amitesh-singh-xeoncesta/
 [instagram]: https://www.instagram.com/amitesh.xeoncesta/
-[aboutme_web] : https://xeoncesta.github.io/website_xeoncesta/
