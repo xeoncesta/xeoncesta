@@ -17,12 +17,38 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][aboutme_web]
-[<img align="left" alt="Eclipse" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fprojects.eclipse.org%2Fsites%2Fdefault%2Ffiles%2Fegit.png&imgrefurl=https%3A%2F%2Fprojects.eclipse.org%2Fprojects%2Ftechnology.egit&tbnid=bW7aoNZLnSH9pM&vet=12ahUKEwiw2dOOz4vrAhW73HMBHTEpBQoQMygLegUIARCxAQ..i&docid=QRiOGbGki4z0KM&w=199&h=186&q=Eclipse%20icon%20github&safe=active&client=firefox-b-d&ved=2ahUKEwiw2dOOz4vrAhW73HMBHTEpBQoQMygLegUIARCxAQ
-" />][aboutme_web]
-[<img align="left" alt="C++" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F42747200%2F46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png&imgrefurl=https%3A%2F%2Fgithub.com%2FFortAwesome%2FFont-Awesome%2Fissues%2F14021&tbnid=6NPN_YWGe3Da2M&vet=12ahUKEwidg4H1zovrAhVcBLcAHYRQDiAQMygAegUIARDDAQ..i&docid=vsWRo_hddNui4M&w=1200&h=1349&q=C%2B%2B%20icon&safe=active&client=firefox-b-d&ved=2ahUKEwidg4H1zovrAhVcBLcAHYRQDiAQMygAegUIARDDAQ" />][aboutme_web]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][aboutme_web]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][aboutme_web]
+•	Simulation and Debugging software :
+		PSpice
+		TINA
+		Proteus Design Suite
+		MATLAB
+•	Designing software
+		EagleCAD
+		VHDL on Xilinx
+		AutoCAD
+		LABVIEW
+•	Language and Tools
+		C and C++
+		Embedded C on AVR Studio
+		Shell Scripting using BASH
+		Assembly Language [Intel 8085 Ins. set]
+		Python
+		Rational Synergy and DOORS
+		GIT
+•	Operating System
+		Windows 7,8,10
+		Linux Fedora-19
+•	Compilers and Editors
+		GCC
+		Vim
+		Eclipse and MSVC
+		ELDO[Mentor graphics]
+		ArduinoIDE
+		VectorCAST [6.3n to 2019]
+•	Project Management 
+		SCRUM (way of working)
+		Rational JAZZ (Project management and Sprint plannings)
+	
 <br />
 <br />
 
