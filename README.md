@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/xeoncesta/xeoncesta/master/welcome2.gif?raw=true">
+</p>
+
 ### 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓐𝓶𝓲𝓽𝓮𝓼𝓱 - 𝓪𝓴𝓪 [xeoncesta][website] 👋
 
 ## I'm a Software/Elctronics Engineer,Developer, and a fun guy to hang out with!
@@ -56,8 +60,9 @@
 <br />
 
 ---
-<a href="https://github.com/xeoncesta/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" alt="xeoncesta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xeoncesta&show_icons=true&hide_border=true&hide=prs,issues,contribs&count_private=true&theme=tokyonight" />
+
 <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeoncesta&layout=compact" />	
 </a>
 
