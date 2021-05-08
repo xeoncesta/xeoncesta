@@ -21,12 +21,12 @@
 
 ### Languages and Tools
 	⦾	C and C++
-	⦾	Embedded C on AVR Studio
-	⦾	Shell Scripting using BASH
-	⦾	Assembly Language [Intel 8085 Ins. set]
 	⦾	Python
-	⦾	Rational Synergy and DOORS
-	⦾	GIT
+	⦾	Embedded C
+	⦾	Assembly Language [Intel 8085 Ins. set]
+	⦾	Shell Scripting using BASH
+	⦾	IBM Rational Synergy and DOORS
+	⦾	GIT & Gitlab automation for DevOps
 
 ### Simulation and Debugging software
 	⦾	PSpice
@@ -42,7 +42,7 @@
 	
 ### Operating System
 	⦾	Windows 7,8,10
-	⦾	Linux Fedora-19
+	⦾	Linux  (♥️ Fedora Destro)
 	
 ### Compilers and Editors
 	⦾	GCC
@@ -53,7 +53,7 @@
 	⦾	VectorCAST [6.3n to 2019]
 	
 ### Project Management
-	⦾	SCRUM (way of working)
+	⦾	Agile & SCRUM (way of working)
 	⦾	Rational JAZZ (Project management and Sprint plannings)
 	
 <br />
