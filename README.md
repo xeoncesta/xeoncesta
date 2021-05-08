@@ -5,7 +5,7 @@
 ### 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓐𝓶𝓲𝓽𝓮𝓼𝓱 - 𝓪𝓴𝓪 [xeoncesta][website] 👋
 
 ## I'm a Software/Elctronics Engineer,Developer, and a fun guy to hang out with!
-- 🔭 I’m currently working on a [Relish Editor][CurrentProj]!
+- 🔭 I’m currently working with AI/ML & trying to adapt it to new domains.
 - 🌱 I’m currently learning everything 😂 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
