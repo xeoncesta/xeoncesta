@@ -8,7 +8,7 @@
 - 🔭 I’m currently working with AI/ML & trying to adapt it to new domains.
 - 🌱 I’m currently learning everything 😂 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Get expertise in ML and image processing
 - 👾  Fun fact: I am weeb, otaku and love to explore other cultures
 
 ### Connect with me:
@@ -60,7 +60,7 @@
 <br />
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/xeoncesta/github-readme-stats">
 <img align="left" alt="xeoncesta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xeoncesta&show_icons=true&hide_border=true&hide=prs,issues,contribs&count_private=true&theme=tokyonight" />
 
 <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeoncesta&layout=compact" />	
